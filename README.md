@@ -1,7 +1,7 @@
 # Table-Lamp
 
-Number of vertices: 2,002
-Number of triangles: 3,802
+Number of vertices: 2,002\
+Number of triangles: 3,802\
 
 ![render_1](https://user-images.githubusercontent.com/37188295/120929599-efee8d00-c6e9-11eb-82e7-93d8d64608a4.png)
 
