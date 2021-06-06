@@ -1,3 +1,5 @@
-/[Rr]enders/
+/[Rr]enders/*
 
 *.blend1
+*.obj
+*.mtl
